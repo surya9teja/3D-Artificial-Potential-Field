@@ -1,3 +1,5 @@
+%Credits Dr Lyuba Alboul's lecture notes
+
 %Potting function
 function [plots] = potential_plots(x,y, obstacle)
 [xx, yy] = meshgrid(x,y);
